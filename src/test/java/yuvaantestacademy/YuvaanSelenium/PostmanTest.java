@@ -10,4 +10,6 @@ public class PostmanTest {
 		System.out.println("Hey Postman framework");
 	}
 
+// New Postman Test initiated
+
 }
